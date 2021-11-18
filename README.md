@@ -1,0 +1,4 @@
+# autotradingkickstart
+
+
+test . read me
